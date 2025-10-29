@@ -1,0 +1,126 @@
+[
+  {
+    "email": "test@example.com",
+    "password": "12345",
+    "loginHistory": [
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T12:45:00Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-26T13:00:00Z"
+      }
+    ]
+  },
+  {
+    "email": "rajavivek773@gmail.com",
+    "password": "Vivek@123",
+    "createdAt": "2025-10-26T11:56:29.167Z",
+    "lastLogin": "2025-10-27T12:56:05.997Z",
+    "lastLogout": "2025-10-27T15:25:44.605Z",
+    "loginHistory": [
+      {
+        "action": "logout",
+        "timestamp": "2025-10-26T11:56:40.360Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T11:56:59.835Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-26T11:59:41.528Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T12:15:57.905Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-26T12:16:00.630Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T12:24:56.937Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T12:27:37.861Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-26T12:27:39.792Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T12:34:15.409Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-26T14:59:24.292Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-27T11:18:11.958Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-27T11:18:29.499Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-27T12:13:10.045Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-27T12:19:53.680Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-27T12:21:38.334Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-27T12:28:14.703Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-27T12:28:38.252Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-27T12:28:42.411Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-27T12:56:05.997Z"
+      },
+      {
+        "action": "logout",
+        "timestamp": "2025-10-27T15:25:44.605Z"
+      }
+    ]
+  },
+  {
+    "email": "sasi27@gmail.com",
+    "password": "Sasi@123",
+    "createdAt": "2025-10-27T11:19:06.534Z",
+    "lastLogin": null,
+    "lastLogout": null,
+    "loginHistory": []
+  },
+  {
+    "email": "sasi2705@gmail.com",
+    "password": "Vivek@123",
+    "createdAt": "2025-10-27T12:29:17.020Z",
+    "lastLogin": null,
+    "lastLogout": "2025-10-27T12:52:46.348Z",
+    "loginHistory": [
+      {
+        "action": "logout",
+        "timestamp": "2025-10-27T12:52:46.348Z"
+      }
+    ]
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "email": "rajavivek773@gmail.com",
+    "password": "Vivek@123",
+    "createdAt": "2025-10-28T11:47:48.697Z",
+    "lastLogin": "2025-10-28T13:33:10.122Z",
+    "lastLogout": null,
+    "loginHistory": [
+      {
+        "action": "login",
+        "timestamp": "2025-10-28T11:48:17.450Z"
+      },
+      {
+        "action": "login",
+        "timestamp": "2025-10-28T13:33:10.122Z"
+      }
+    ]
+  },
+  {
+    "email": "rajavivek775@gmail.com",
+    "password": "Vivek",
+    "createdAt": "2025-10-28T13:04:16.262Z",
+    "lastLogin": "2025-10-28T13:04:32.775Z",
+    "lastLogout": null,
+    "loginHistory": [
+      {
+        "action": "login",
+        "timestamp": "2025-10-28T13:04:32.775Z"
+      }
+    ]
+  },
+  {
+    "email": "sasi2705@gmail.com",
+    "phone": null,
+    "password": "Sasi@123",
+    "createdAt": "2025-10-28T17:15:56.295Z"
+  },
+  {
+    "email": "rajavivek7734@gmail.com",
+    "phone": null,
+    "password": "Vivek@123",
+    "createdAt": "2025-10-28T17:33:51.005Z"
+  },
+  {
+    "email": "rajavivek89@gmail.com",
+    "password": null,
+    "createdAt": "2025-10-29T11:35:21.383Z"
+  }
+]
